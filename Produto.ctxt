@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Produto
+comment0.text=\r\n\ Classe\ base\ para\ os\ produtos\ do\ sistema.\r\n\ \r\n\ @author\ Hyuan\ \r\n\ @version\ v01\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment1.text=\r\n\ Um\ exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\r\n\ @param\ \ y\ \ \ um\ par\u00E2metro\ de\ exemplo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\r\n
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment2.text=\r\n\ Um\ exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\r\n\ @param\ \ y\ \ \ um\ par\u00E2metro\ de\ exemplo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\r\n
+comment3.params=
+comment3.target=int\ getCodigo()
+comment3.text=\r\n\ Um\ exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\r\n\ @param\ \ y\ \ \ um\ par\u00E2metro\ de\ exemplo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\r\n
+comment4.params=codigo
+comment4.target=void\ setCodigo(int)
+comment4.text=\r\n\ Um\ exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\r\n\ @param\ \ y\ \ \ um\ par\u00E2metro\ de\ exemplo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\r\n
+comment5.params=
+comment5.target=float\ getPreco()
+comment5.text=\r\n\ Um\ exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\r\n\ @param\ \ y\ \ \ um\ par\u00E2metro\ de\ exemplo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\r\n
+comment6.params=preco
+comment6.target=void\ setPreco(float)
+comment6.text=\r\n\ Um\ exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\r\n\ @param\ \ y\ \ \ um\ par\u00E2metro\ de\ exemplo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\r\n
+comment7.params=nome\ codigo\ preco
+comment7.target=Produto(java.lang.String,\ int,\ float)
+numComments=8

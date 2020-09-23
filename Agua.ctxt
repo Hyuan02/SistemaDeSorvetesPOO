@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Agua
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Agua\ aqui.\r\n\ \r\n\ @author\ Hyuan\r\n\ @version\ v01\r\n
+comment1.params=nome\ codigo\ preco
+comment1.target=Agua(java.lang.String,\ int,\ float)
+comment2.params=tamanho\ tipo
+comment2.target=void\ SetAgua(TamanhoAgua,\ TipoAgua)
+numComments=3
