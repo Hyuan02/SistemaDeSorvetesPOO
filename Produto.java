@@ -5,7 +5,7 @@
  * @author Hyuan 
  * @version v01
  */
-public class Produto
+public abstract class Produto
 {
     
     private String nome;

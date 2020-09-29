@@ -1,4 +1,7 @@
 
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
 /**
  * Escreva a descrição da classe App aqui.
  * 
@@ -7,20 +10,18 @@
  */
 public class App
 {
-    // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
 
-    /**
-     * COnstrutor para objetos da classe App
-     */
-    public App()
-    {
-        
+    public static void main(String args[]){
+        App app = new App();
+        app.createMainScreen();
     }
-    
-    public static void main(String[] args){
-        
-        System.out.println("This is a test");
-        
+
+    public void createMainScreen(){
+        TelaInicial inicio = new TelaInicial();
+       
+
     }
-    
+
 }
+
+

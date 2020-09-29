@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Pedido
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Pedido\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Pedido()
+comment2.params=
+comment2.target=void\ finalizarPedido()
+comment3.params=produto
+comment3.target=void\ addProduto(Produto)
+comment4.params=produto
+comment4.target=void\ removerProduto(Produto)
+comment5.params=
+comment5.target=void\ atribuirValorTotal()
+comment6.params=
+comment6.target=java.util.ArrayList\ getProdutos()
+comment7.params=
+comment7.target=float\ FinalizarCaixa()
+numComments=8

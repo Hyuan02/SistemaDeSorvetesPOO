@@ -5,29 +5,15 @@
  * @author (seu nome) 
  * @version (número de versão ou data)
  */
-public class Copo
+public class Copo extends Sorvete
 {
-    // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
-    private int x;
-
-    /**
-     * COnstrutor para objetos da classe Copo
-     */
-    public Copo()
-    {
-        // inicializa variáveis de instância
-        x = 0;
-    }
-
-    /**
-     * Exemplo de método - substitua este comentário pelo seu próprio
-     * 
-     * @param  y   exemplo de um parâmetro de método
-     * @return     a soma de x com y 
-     */
-    public int sampleMethod(int y)
-    {
-        // ponha seu código aqui
-        return x + y;
+    public Copo(TamanhoSorvete tamanho){
+            super((tamanho == TamanhoSorvete.PEQUENO ? "Copo Pequeno" : "Copo Grande" )
+            ,(tamanho == TamanhoSorvete.PEQUENO ? 7 : 8),
+            (tamanho == TamanhoSorvete.PEQUENO ? 3.00f : 4.50f),
+            (tamanho == TamanhoSorvete.PEQUENO ? 3 : 6)
+            );
+            
+            
     }
 }
